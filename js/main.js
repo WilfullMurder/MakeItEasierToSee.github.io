@@ -279,7 +279,4 @@ fetch('/utilities/navbar.html')
     loadSection('call-to-action', '/utilities/call-to-action.html');
     loadSection('team', '/utilities/team.html');
     loadSection('why-us', '/utilities/why-choose-us.html');
-    loadSection('services-list', '/utilities/services-list.html');
-
-
 });
